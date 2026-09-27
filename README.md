@@ -1,6 +1,6 @@
 # Agent Skills & Prompts
 
-This is a personal collection of reusable, practice-tested workflows for Codex and other AI coding agents. It is intentionally small and will grow as workflows become stable enough to reuse.
+This is a collection of reusable, practice-tested workflows for AI coding agents. It is intentionally small and will grow as workflows become stable enough to reuse.
 
 ## Structure
 
