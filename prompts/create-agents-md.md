@@ -6,9 +6,9 @@ Its purpose is to provide stable, long-lived project context for future Codex co
 
 ## Investigate before writing
 
-Do not infer the project from a small number of files. Inspect the repository thoroughly enough to ground every statement in evidence. Start with root-level documentation, project structure, configuration, and recent history. Then inspect the relevant core source code, tests, implementation plans, and other documents as needed to understand the project.
+Do not infer the project from a small number of files. Inspect the repository thoroughly enough to ground every statement in evidence. Start with the README and other root-level documentation, project structure, configuration, and recent history. Then inspect the relevant core source code, tests, implementation plans, and other documents as needed to understand the project.
 
-Prioritise canonical sources over summaries. Do not assume a file, command, dependency, architecture, metric, experiment result, or project status that the repository does not support.
+Prioritise canonical sources over summaries. Do not assume a feature, file, command, dependency, architecture, metric, experiment result, or project status that the repository does not support.
 
 ## What AGENTS.md should provide
 
@@ -17,7 +17,7 @@ Keep `AGENTS.md` concise and navigation-focused rather than turning it into a pr
 Include only repository-supported information that helps future agents understand:
 
 - what the project is and the problem it addresses;
-- the high-level architecture, main modules, and important directories or files;
+- the high-level architecture, main modules, and important directories or files and their responsibilities;
 - core data flows or pipelines, where applicable;
 - primary technologies and dependencies;
 - established design decisions and constraints;
