@@ -2,7 +2,7 @@
 
 Create a project-level `AGENTS.md` for the current repository.
 
-Its purpose is to provide stable, long-lived project context for future Codex conversations. A new agent should be able to read it, understand the project quickly, and determine which repository files to read next for its specific task.
+Its purpose is to provide stable, long-lived project context for future Agent conversations. A new agent should be able to read it, understand the project quickly, and determine which repository files to read next for its specific task.
 
 ## Investigate before writing
 
@@ -35,7 +35,7 @@ Before creating or modifying `AGENTS.md`, first provide:
 
 1. a concise summary of your repository-backed understanding of the project;
 2. the proposed `AGENTS.md` outline;
-3. important documentation gaps you found; and
+3. important documentation gaps you found;
 4. a recommendation on whether additional documents such as `PROJECT_CONTEXT.md`, `ARCHITECTURE.md`, `PROGRESS.md`, or `EVALUATION.md` are genuinely needed.
 
 Do not create additional documentation merely for completeness. Prefer improving navigation to existing canonical sources. Wait for explicit approval of the proposed structure before editing `AGENTS.md`.
