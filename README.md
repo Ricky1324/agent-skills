@@ -11,8 +11,9 @@ agent-skills/
 ├── skills/
 │   └── sync-project-context/  # Planned
 └── prompts/
+    ├── audit-new-materials-zh.md
     ├── create-agents-md.md     # English
-    └── create-agents-md-zh.md  # Chinese
+    ├── create-agents-md-zh.md  # Chinese
     └── resume-optimization-zh.md
 ```
 
@@ -29,6 +30,7 @@ Read `AGENTS.md` for the repository context and task-based navigation. Use this 
 
 ## Current contents
 
+- `prompts/audit-new-materials-zh.md` helps audit newly added project materials against the user's responsibilities, identify relevant requirements and uncertainties, and recommend focused next steps without changing code or documentation.
 - `AGENTS.md` provides repository context and points agents to the files relevant to their task.
 - `prompts/create-agents-md.md` is the English prompt for analysing an existing repository and creating a concise, navigation-focused project-level `AGENTS.md`.
 - `prompts/create-agents-md-zh.md` is its Chinese counterpart for the same task.
