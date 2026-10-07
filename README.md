@@ -14,6 +14,7 @@ agent-skills/
     ├── audit-new-materials-zh.md
     ├── create-agents-md.md     # English
     ├── create-agents-md-zh.md  # Chinese
+    ├── plan-development-from-prd-zh.md
     └── resume-optimization-zh.md
 ```
 
@@ -34,5 +35,6 @@ Read `AGENTS.md` for the repository context and task-based navigation. Use this 
 - `AGENTS.md` provides repository context and points agents to the files relevant to their task.
 - `prompts/create-agents-md.md` is the English prompt for analysing an existing repository and creating a concise, navigation-focused project-level `AGENTS.md`.
 - `prompts/create-agents-md-zh.md` is its Chinese counterpart for the same task.
-- `prompts/resume-optimization-zh.md` helps revise a resume for a specified target role.
+- `prompts/plan-development-from-prd-zh.md` turns a PRD, architecture, and current project state into scoped development tasks with dependencies, acceptance criteria, realistic estimates, and AI execution guidance.
+- `prompts/resume-optimization-zh.md` helps revise a resume for a target role or specific job description, with evidence-based matching, factual boundaries, and interview preparation guidance.
 - `skills/sync-project-context/` is reserved for a future skill that reviews whether `AGENTS.md` and related project documentation still match significant repository changes.
