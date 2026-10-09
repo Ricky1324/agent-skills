@@ -43,3 +43,9 @@ Before creating or modifying `AGENTS.md`, first provide:
 4. a recommendation on whether additional documents such as `PROJECT_CONTEXT.md`, `ARCHITECTURE.md`, `PROGRESS.md`, or `EVALUATION.md` are genuinely needed.
 
 Do not create additional documentation merely for completeness. Prefer improving navigation to existing canonical sources. Wait for explicit approval of the proposed structure before editing `AGENTS.md`.
+
+## Verify after editing
+
+Check that referenced paths exist, commands are supported by repository sources, and the content is consistent with applicable directory-level rules. Correct broken references and conflicts, and confirm that valid existing conventions have been preserved.
+
+Report the checks performed and anything still unverified. Distinguish source-supported commands from commands actually run successfully; do not describe unexecuted commands as verified to work. Documentation verification does not require running every command.

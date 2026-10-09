@@ -2,7 +2,7 @@
 
 ## Purpose
 
-This repository is a personal collection of reusable, practice-tested workflows for Codex and other AI coding agents. It intentionally remains small and grows when a workflow has become stable enough to reuse.
+This repository is a personal collection of reusable task instructions and evolving workflows for Codex and other AI coding agents. It intentionally remains small; workflows are refined through use and promoted to Skills only after validation.
 
 ## Content Model
 

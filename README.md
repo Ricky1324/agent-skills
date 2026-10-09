@@ -1,6 +1,6 @@
 # Agent Skills & Prompts
 
-This is a collection of reusable, practice-tested workflows for AI coding agents. It is intentionally small and will grow as workflows become stable enough to reuse.
+This is a collection of reusable task instructions and evolving workflows for AI coding agents. It is intentionally small; workflows are refined through use and promoted to Skills only after validation.
 
 ## Structure
 
